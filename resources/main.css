@@ -1,0 +1,8 @@
+/* Base Tags */
+body { background-color: #3f3f3f; }
+p { font-family: Arial; color: whitesmoke; font-size: 24px;}
+li { font-family: Arial; color: whitesmoke;}
+a { color: green; }
+/* Custom Tags */
+#center { text-align: center; }
+#logo { border-style: solid; resize: 32px; width: 362px; border-width: 16px; border-color: black; border-radius: 16px; }
