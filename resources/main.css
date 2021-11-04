@@ -6,3 +6,4 @@ a { color: green; }
 /* Custom Tags */
 #center { text-align: center; }
 #logo { border-style: solid; resize: 32px; width: 362px; border-width: 16px; border-color: black; border-radius: 16px; }
+#important-link { font-family: Arial; color: greenyellow; font-size: 32px;}
